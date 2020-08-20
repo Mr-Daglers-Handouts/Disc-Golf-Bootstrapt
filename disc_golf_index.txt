@@ -1,0 +1,13 @@
+Bootstrap CSS Links
+    https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+    https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+    https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+Plastics and Disc Types
+    Here you will learn about the different plastics types, the advantages, and disadvantages of each. We will read about flight characteristcs and four main disc types: putter, midrange, fairway drive, and distance drive.</p>
+
+Common Throwing Techniques
+    Now it is time for you to learn how to throw a disc. This Webpage will teach you how to increase distance using the x-step technique and how to drive using backhand, sidearm and two putting methods.</p>
+
+Where to Play
+    Now it is time for the best part, playing Disc Golf. This page will show you how to find locations of disc golf courses that are nearby. I have also included numerous pictures of courses that I have played on.</p>
